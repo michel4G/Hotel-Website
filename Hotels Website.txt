@@ -1,0 +1,64 @@
+how to make a complete responsive hotels and resorts booking website design using html css and vanilla javascript from scratch
+create a complete responsive single page front-end hotels and rooms booking website design template using pure html css and vanilla javascript step by step tutorial
+
+Buy Me A Coffee :
+https://www.buymeacoffee.com/mrwebdes...
+
+* SOURCE CODES *
+
+DOWNLOAD THE SOURCE CODE FROM GOOGLE DRIVE ( INCLUDES IMAGES ):
+https://drive.google.com/file/d/1YuYn...
+( *you are free to use this source code )
+
+How To Download
+
+Step 1 :- click the google drive link ☝☝☝
+Step 2 :- click on download link in the google drive. 
+Step 3 :- extract the zip file into your desired folder.
+Step 4 :- open the converted files into your browser.
+Step 5 :- open your editor and put your unzipped files into it and then edit it as you like. 
+
+sweetalert:
+https://sweetalert.js.org/
+
+font awesome cdn link:
+https://cdnjs.com/libraries/font-awesome
+
+google fonts:
+https://fonts.google.com/
+
+clip path generator:
+https://bennettfeely.com/clippy/
+
+Editor : - visual studio code with Laetus: Dark Vibrant Theme
+Browser : - google chrome
+UI Tool : - Figma
+localhost : xampp
+Images / Video / SVG : - 
+01 - https://www.freepik.com/
+02 - https://storyset.com/
+03 - https://undraw.co/
+04 - https://pixabay.com/
+05 - https://unsplash.com/
+06 - https://pixabay.com/
+07 - https://www.flaticon.com/
+08 - https://pngtree.com/
+09 - https://www.pngegg.com/
+
+New To My Channel Subscribe Now And See More Stuff Like This:
+https://www.youtube.com/c/MrWebDesign...
+
+timestamps:
+0:00 demo
+2:29 file structure
+3:42 header section
+15:26 home section
+28:28 availability check section
+36:14 about section
+43:03 services section
+47:21 reservation section
+52:09 gallery section
+58:23 contact section
+1:10:55 reviews section
+1:18:02 footer section
+1:25:25 final demo
